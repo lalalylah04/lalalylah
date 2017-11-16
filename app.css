@@ -1,0 +1,28 @@
+body {
+    background-color: #DB798B;
+    color:#6A0B4F;
+    font-family: 'Marck Script', cursive;
+    
+}
+
+div {
+    border: 6px solid #c9919b;
+  }    
+
+  header{
+    background:url(Images/sky.jpg);
+    background-size: cover;
+    padding: 50px 50px 50px 50px;
+    text-align:center;d
+  }
+  .hlinks{
+      display: inline;
+      padding:0px 10px 0px 10px;
+      color:#edafba;
+  }
+  article{
+     max-width:500px;
+      padding:20px;
+      margin:0 auto;
+    }
+  
